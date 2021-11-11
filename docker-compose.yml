@@ -4,4 +4,4 @@ services:
     hello-world:
         image: hello-world
     laba1:
-        build: cr.yandex/crpnj4t6oes1a2f5bsk7/laba1/
+        build: laba1/
