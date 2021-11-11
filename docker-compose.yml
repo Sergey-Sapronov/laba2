@@ -3,5 +3,5 @@ version: "3"
 services:
     hello-world:
         image: hello-world
-    laba01:
-        build: cr.yandex/crpnj4t6oes1a2f5bsk7/laba01/
+    laba1:
+        build: cr.yandex/crpnj4t6oes1a2f5bsk7/laba1/
